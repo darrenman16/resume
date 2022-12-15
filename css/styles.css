@@ -1,0 +1,175 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 5.625rem;   /*100% = 16px*/
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', serif;
+  color: #66BFBF;
+  /*line-height: 2;
+  display: inline-block;
+  margin: 0 auto; margin: 0 auto 0 auto;
+  position: relative;
+  left: 100px;*/
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.4rem;
+  margin-top: 0;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+hr {
+  color: #EAF6F6;
+  border: 0;
+  width: 5%;
+  border-top: dotted;
+  height: 0;
+  border-width: 10px;
+  margin: 70px auto;
+  /*margin-top: 70px;
+  margin-bottom: 70px;*/
+}
+
+p {
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 100px;
+  /*width: 200px;
+  height: 200px;
+  border: solid 10px;
+  padding: 20px;*/
+}
+
+.middle-container {
+  margin-bottom: 70px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px;
+  /*height: 200px;
+  width: 200px;
+  margin-left: 500px;
+  border: solid 10px;*/
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+.top-cloud {
+  position: relative;
+  right: -218px;
+}
+
+.skill-row {
+  /*display: inline-block;*/
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.engineer-img {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.programmer-img {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.footnote {
+  color: #EAF6F6;
+  font-size: 0.7rem;
+  padding-top: 30px;
+}
+
+.footer-link {
+  margin: 10px 20px;
+}
+
+.mine {
+  margin: 50px;
+}
+
+.btn {
+  background-color: #66BFBF;
+  border: none;
+  color: white;
+  padding: 10px 20px 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  margin-top: 30px;
+}
+
+.btn:hover {
+  background-color: #4CAF50;
+}
+
+.lower {
+  padding-bottom: 30px;
+}
+
+.profile {
+  display: inline-block;
+  width: 50%;
+}
+
+.contact-message {
+  width: 50%;
+  margin: auto;
+}
+/*.middle-container {
+  /*background-color: red;
+  height: 200px;
+  width: 200px;
+  margin-left: 260px;
+  border: solid 20px;
+}*/
+
+/*.pro {
+  text-decoration: underline;
+}*/
+/*p {
+  position: relative;
+  left: 270px;
+}*/
+
+/*.engineer-description {
+  clear: left;
+}
+
+.programmer-description {
+  clear: right;
+}*/
